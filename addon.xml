@@ -1,9 +1,9 @@
-chela﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.Matrix-01"
-       name="Matrix-01 Repository"
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.zombi"
+       name="Zombi Repository"
         version="0.0.9"
-        provider-name="Matrix-01">
-    <extension point="xbmc.addon.repository" name="Matrix-01 Repository">
+        provider-name="zombi">
+    <extension point="xbmc.addon.repository" name="Zombi Repository">
     <dir>
         <info compressed="false">https://raw.githubusercontent.com/zombiB/zombi-addons/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/zombiB/zombi-addons/master/addons.xml.md5</checksum>
